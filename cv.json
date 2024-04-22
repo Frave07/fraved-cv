@@ -1,0 +1,296 @@
+{
+  "basics": {
+    "name": "Franklin Pérez Avellaneda",
+    "label": "Full Stack Developer con más de 3 años de experiencia",
+    "image": "/me.webp",
+    "email": "frave.developer@gmail.com",
+    "phone": "+51 000000000",
+    "url": "",
+    "summary": "+3 años de experiencia como Desarrollador Full Stack. Actualmente Trabajo como desarrollador Flutter. Vivo en Chiclayo, Perú. He trabajado en diferentes entornos: desde el desarrollo y mantenimiento de paginas Web hasta la creación de aplicaciones movil con Flutter.",
+    "location": {
+      "address": "",
+      "postalCode": "000000",
+      "city": "Chiclayo",
+      "countryCode": "PE",
+      "region": "Perú"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fraved",
+        "url": "https://www.linkedin.com/in/franklin-perez-138a8521b/"
+      },
+      {
+        "network": "X",
+        "username": "fraved",
+        "url": "https://twitter.com/FPerezA07"
+      },
+      {
+        "network": "GitHub",
+        "username": "frave07",
+        "url": "https://github.com/frave07"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GELARU SOFT & IT SERVICE E.I.R.L",
+      "position": "Full Stack Developer",
+      "url": "https://gelarusoft.com/web/",
+      "startDate": "2022-04-01",
+      "endDate": "2024-03-31",
+      "summary": "Desarrollé una aplicación con Flutter para el sector de la Facturación Electronica con clean architecture y BLOC para la gestión de estados, se realizo mantenimiento a una aplicación para el sector de la salud con Flutter y la creación de API con PHP. Se desarrollo un E-commerce con NextJs para el FrontEnd y para el BackEnd con PHP (Phalcon).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Restoner S.A.C.",
+      "position": "Flutter Developer",
+      "startDate": "2021-11-10",
+      "endDate": "2022-03-31",
+      "summary": "Desarrollé 2 aplicaciones con Flutter para el sector del delivery. Restoner Comensales enfocado en la elaboración de pedidos. Restoner Anfitriones enfocado para pequeños restaurantes ofreciendo multiples funcionalidades para la gestión del negocio.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Señor de Sipan",
+    "url": "https://www.uss.edu.pe/uss/Inicio",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Bachelor",
+    "startDate": "2015-03-01",
+    "endDate": "2020-12-15",
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "",
+    "date": "",
+    "awarder": "",
+    "summary": ""
+  }],
+  "certificates": [{
+    "name": "",
+    "date": "",
+    "issuer": "",
+    "url": ""
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "url": "",
+    "summary": ""
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Basic",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Basic",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Advanced",
+      "keywords": [
+        "Desarrollo Mobile", "Frontend", "Flutter", "UI/UX", "UI"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Flutter", "UI/UX", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [{
+    "name": "",
+    "keywords": [
+      "",
+      ""
+    ]
+  }],
+  "references": [{
+    "name": "",
+    "reference": ""
+  }],
+  "projects": [
+    {
+      "name": "E-commerce",
+      "isActive": true,
+      "description": "E-commerce echa con Next.Js para el FrontEnd y PHP (Phalcon) para el Backend, agregando pasarela de pago IZIPAY y Facturación electronica",
+      "highlights": [
+        "NextJs",
+        "JavaScript & TypeScript",
+        "PHP",
+        "Phalcon",
+        "MySql"
+      ],
+      "url": "https://www.gelarusoft-techsalesolutions.com/"
+    },
+    {
+      "name": "E-commerce APP",
+      "isActive": true,
+      "description": "E-commerce echa con Flutter y para el Backend con NodeJs",
+      "highlights": [
+        "Flutter",
+        "NodeJs",
+        "Mysql",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://github.com/Frave07/ECommerce-Products-Flutter",
+      "github": "https://github.com/Frave07/ECommerce-Products-Flutter"
+    },
+    {
+      "name": "Delivery APP",
+      "isActive": true,
+      "description": "Delivery APP con Flutter Bloc / Socket io client / Google Map / MapBox / Geolocator / Push notifications. y para el Backend con Nodejs y Mysql",
+      "highlights": [
+        "Flutter",
+        "NodeJs",
+        "Mysql",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://github.com/Frave07/Flutter-Delivery-App",
+      "github": "https://github.com/Frave07/Flutter-Delivery-App"
+    },
+    {
+      "name": "Social APP",
+      "isActive": true,
+      "description": "Clon de Instagram con Backend en NodeJs y Mysql para el almacenamiento de datos",
+      "highlights": [
+        "Flutter",
+        "NodeJs",
+        "Mysql",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://github.com/Frave07/Flutter-Social-Media-App",
+      "github": "https://github.com/Frave07/Flutter-Social-Media-App"
+    },
+    {
+      "name": "Safe Manager",
+      "isActive": true,
+      "description": "Manejador de contraseñas echa con Flutter",
+      "highlights": [
+        "Flutter"
+      ],
+      "url": "https://github.com/Frave07/safe_manager",
+      "github": "https://github.com/Frave07/safe_manager"
+    },
+    {
+      "name": "Keep Notes",
+      "description": "Proyecto echo con Flutter y con Flutter-bloc para la gestión de estados.",
+      "highlights": [
+        "Flutter"
+      ],
+      "url": "https://github.com/Frave07/Keep-Notes---Flutter",
+      "github": "https://github.com/Frave07/Keep-Notes---Flutter"
+    },
+    {
+      "name": "Flutter Projects",
+      "description": "Lista de mas proyectos echas con Flutter",
+      "highlights": [
+        "Flutter"
+      ],
+      "url": "https://github.com/Frave07/Flutter-Projects",
+      "github": "https://github.com/Frave07/Flutter-Projects"
+    }
+  ]
+}
